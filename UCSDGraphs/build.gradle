@@ -1,0 +1,21 @@
+apply plugin: 'java'
+apply plugin: 'eclipse'
+
+version = '1'
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+// Embeded Jetty for testing
+jettyRun {
+    contextPath = "/"
+    httpPort = 8080
+}
+
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+
+}

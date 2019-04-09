@@ -1,0 +1,17 @@
+INDEX VERSION 1.130+C:\Users\tmoro\eclipse-workspace\.metadata\.plugins\org.eclipse.jdt.core
+3416408514.index
+163208983.index
+1919044117.index
+3907033578.index
+1027275919.index
+2947849658.index
+268623423.index
+1690647572.index
+2835790182.index
+4145542693.index
+3217635104.index
+1398662801.index
+3327792001.index
+4078267990.index
+3134414655.index
+3009971142.index
